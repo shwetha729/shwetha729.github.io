@@ -1,0 +1,3 @@
+[submodule "md-submod"]
+	path = md-submod
+	url = https://github.com/HugoBlox/hugo-theme-markdown-slides
