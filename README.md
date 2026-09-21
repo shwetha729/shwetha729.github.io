@@ -4,6 +4,7 @@ This used to be a Jekyll site deployed to Github pages from back in 2017. Somewh
 
 Notice the **Contributors** on the right. Looks like I'd been using "agents" since 2017 too. Visionary.
 
+Find the fix, and implement. 
   
 
 
