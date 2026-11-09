@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Favorites.html",
+    "href": "Favorites.html",
+    "title": "Favorites",
+    "section": "",
+    "text": "a domain (shwethajayaraj.com)\na test site (https://shwaytest.mailchimpsites.com)\na bot test"
+  },
+  {
+    "objectID": "Favorites.html#what-exists-currently-now",
+    "href": "Favorites.html#what-exists-currently-now",
+    "title": "Favorites",
+    "section": "",
+    "text": "a domain (shwethajayaraj.com)\na test site (https://shwaytest.mailchimpsites.com)\na bot test"
+  },
+  {
+    "objectID": "Favorites.html#issues",
+    "href": "Favorites.html#issues",
+    "title": "Favorites",
+    "section": "Issues:",
+    "text": "Issues:\n{“errorCode”:429,“title”:“Your IP address \"##00:8105:da##:1920:1427:372:8###:3b##e\" has been rate-limited. Please try the request again in 60 seconds”}"
   }
 ]

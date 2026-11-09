@@ -1,4 +1,14 @@
 ---
 title: "Favorites"
-editor: visual
 ---
+
+
+## What exists currently now: 
+- a domain (shwethajayaraj.com) 
+- a test site (https://shwaytest.mailchimpsites.com) 
+- a bot test 
+
+
+## Issues:
+
+{"errorCode":429,"title":"Your IP address \"##00:8105:da##:1920:1427:372:8###:3b##e\" has been rate-limited. Please try the request again in 60 seconds"}
