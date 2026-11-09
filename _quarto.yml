@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "shwetha729.github.io"
+  title: "Shwetha Jayaraj"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Favorites.qmd
 
 format:
   html:
